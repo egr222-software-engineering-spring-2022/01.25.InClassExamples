@@ -3,6 +3,6 @@ public class Loop1 {
         for (int i = 1; i <= 3; i++) {
             System.out.println("I am so smart " + i);
         }
-//        System.out.println(i);
+        // System.out.println(i);
     }
 }
