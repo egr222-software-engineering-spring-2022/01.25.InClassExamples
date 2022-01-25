@@ -1,1 +1,1 @@
-# EGR222 Loop Demonstration
+# EGR222 Mirror Project Decomposition Demonstration
